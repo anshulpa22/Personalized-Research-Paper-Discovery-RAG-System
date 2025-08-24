@@ -6,4 +6,5 @@ scholarly
 arxiv
 requests
 beautifulsoup4
-sentence-
+sentence-transformers
+matplotlib
