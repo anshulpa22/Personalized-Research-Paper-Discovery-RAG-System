@@ -1,0 +1,9 @@
+langchain_community
+langchain_openai
+faiss-cpu
+openai
+scholarly
+arxiv
+requests
+beautifulsoup4
+sentence-
