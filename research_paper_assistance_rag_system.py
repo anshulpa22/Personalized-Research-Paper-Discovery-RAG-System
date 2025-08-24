@@ -30,7 +30,7 @@ try:
     os.environ['OPENAI_API_KEY'] = userdata.get('OPENAI_API_KEY')
     print("✅ API key loaded from Colab secrets")
 except:
-    os.environ['OPENAI_API_KEY'] = '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'  # Replace with your key
+    os.environ['OPENAI_API_KEY'] = 'xxxx'  # Replace with your key
     #print("⚠️ API key set directly")
 
 """===== CELL 3: Extract My Research Profile ====="""
