@@ -44,6 +44,6 @@ This project is a Google Scholar/ORCID-powered Research Paper Discovery system u
 
 
 Running the Script
-To run the new script:
+To run the python script:
 
-python your_script.py
+python Research_Paper_Assistance_RAG_System.py
